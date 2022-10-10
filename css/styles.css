@@ -72,7 +72,7 @@ body {
   width: 70%;
 }
 
-.book h2 {
+.nice-h2 {
   font-family: 'Sacramento', cursive;
   color: #FF577F;
   font-size: 3rem;
@@ -160,8 +160,8 @@ body {
 }
 
 .social-media {
-    width: 15rem;
-    padding-left: 2rem;
+  width: 15rem;
+  padding-left: 2rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -173,5 +173,15 @@ body {
 
 /* CONTACT ME */
 .contact-me{
-    padding: 50px;
+    padding: 5rem;
 }
+
+/* ABOUT ME*/
+.about-me{
+    padding: 5rem;
+}
+.about-me img{
+    border-radius: 25%;
+    margin-top: 4rem;
+}
+
